@@ -4,7 +4,7 @@
 - *E-mail:* 95sprite14@mail.ru
 - *Telegram:* @minor_mistake
 - *WhatsApp, Viber:* 89991582562
-- *GitHub:* (https://github.com/Ignat1995) 
+- *GitHub:* [https://github.com/Ignat1995](https://github.com/Ignat1995) 
 ### Инфо
 -
 ### Навыки
