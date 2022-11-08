@@ -20,6 +20,6 @@
 -
 -
 ### Портфолио
-- Пример чек-листа: [чек-лист формы регистрации] (https://docs.google.com/spreadsheets/d/1mYV1ti2Fw7lQYTqO0oiKyAfg9qxLwm0aevDk0C9kxSo/edit#gid=0)
-- Пример баг-репортов: [баг-репорты форсы регистрации] (https://docs.google.com/spreadsheets/d/1mYV1ti2Fw7lQYTqO0oiKyAfg9qxLwm0aevDk0C9kxSo/edit#gid=753364274)
-- Пример тест кейсов: [Google Docs] (https://docs.google.com/spreadsheets/d/1pREPjtdDtNXB-LLr9hpVTsbWP8frbFp_e21R-rZiIYc/edit#gid=0)
+- Пример чек-листа: [чек-лист формы регистрации](https://docs.google.com/spreadsheets/d/1mYV1ti2Fw7lQYTqO0oiKyAfg9qxLwm0aevDk0C9kxSo/edit#gid=0)
+- Пример баг-репортов: [баг-репорты форсы регистрации](https://docs.google.com/spreadsheets/d/1mYV1ti2Fw7lQYTqO0oiKyAfg9qxLwm0aevDk0C9kxSo/edit#gid=753364274)
+- Пример тест кейсов: [Google Docs](https://docs.google.com/spreadsheets/d/1pREPjtdDtNXB-LLr9hpVTsbWP8frbFp_e21R-rZiIYc/edit#gid=0)
