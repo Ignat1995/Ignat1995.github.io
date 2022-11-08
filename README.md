@@ -1,4 +1,3 @@
-# Игнат Гулягин
 ##  Тестировщик, Junior QA
 - *Mobile:* +7 (707) 368 66 81
 - *E-mail:* 95sprite14@mail.ru
