@@ -24,7 +24,7 @@
 - примеры работ [Terminal](https://github.com/Ignat1995/Terminal)
 - [x] **DevTools:**
 - qwe
-- примеры работ [DevTools](https://disk.yandex.ru/i/j0wKj1PjWvB6iA)
+- пример работы [DevTools](https://disk.yandex.ru/i/j0wKj1PjWvB6iA)
 - [x] **VS code:** 
 - знания базовых команд, циклов, лог.связей
 - примеры работ [VS code](https://github.com/Ignat1995/JS-code)
