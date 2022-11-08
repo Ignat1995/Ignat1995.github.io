@@ -1,5 +1,3 @@
-                                      
-![222](https://user-images.githubusercontent.com/116075812/200599958-e73fba90-3771-4aa8-a4bd-72badcba280c.png)
 ### Контакты:                                      
 
 - *Mobile:* +7 (707) 368 66 81                                                   
@@ -11,8 +9,8 @@
 ### Инфо:
 27 лет
 ### Навыки:
--
--
+- [x] API
+- [x] Terminal 
 ### Опыт работы:
 -
 -
