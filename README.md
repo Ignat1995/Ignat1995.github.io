@@ -3,5 +3,3 @@
 ## QA Engineer
 
 
-
-theme: minima
