@@ -7,10 +7,34 @@
 - *GitHub:* [https://github.com/Ignat1995](https://github.com/Ignat1995) 
 
 ### Инфо:
-27 лет
+- 27 лет
+- 
 ### Навыки:
-- [x] API
-- [x] Terminal 
+- [x] Theory:
+- имеются теоретические знания:
+ -туть
+ -и туть
+- [x] Testcase&Checklist:
+- составление тест-кейсов(TestRail;GoogleDocs)
+- составление чек-листов
+- локализация и оформление багов
+- анализ тестовой документации
+- [x] Terminal (cmd):
+- знание основных базовых команд
+- примеры работ [Terminal](https://github.com/Ignat1995/Terminal)
+- [x] DevTools:
+- qwe
+- примеры работ [DevTools](https://disk.yandex.ru/i/j0wKj1PjWvB6iA)
+- [x] VS code: 
+- знания базовых команд, циклов, лог.связей
+- примеры работ [VS code](https://github.com/Ignat1995/JS-code)
+- [x] Git hub:
+- умею
+- мой [GitHub](https://github.com/Ignat1995)
+- [x] Postman:
+- автотестирование типо
+- примеры работ [Postman](https://github.com/Ignat1995/Postman)
+
 ### Опыт работы:
 -
 -
