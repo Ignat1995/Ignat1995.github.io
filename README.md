@@ -43,7 +43,7 @@
 - [x] **DevTools:**
 - Работа с: Elements, Console, Network, Perfomance, Toggle device toolbar, Throttling
   - Пример работы [DevTools](https://disk.yandex.ru/i/j0wKj1PjWvB6iA)
-
+ 
 - [x] **Miro:**
 - Декопозиция сайта (составление mindmap) [пример работы](https://drive.google.com/file/d/117H3i5yWS2pNNsyYBocC0O7b2I8ZUCZn/view?usp=sharing)
 - [x] **VS code:** 
