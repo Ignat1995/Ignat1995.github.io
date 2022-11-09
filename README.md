@@ -26,6 +26,7 @@
 - HTTP (методы и коды ошибок)
 - HTML/CSS
 - Клиент-серверная архитектура, API 
+
 - [x] **Testcase&Checklist:**
 - Составление тест-кейсов(TestRail;GoogleDocs)
   - Пример тест кейсов: [тест кейсы и баг-репорты](https://docs.google.com/spreadsheets/d/1pREPjtdDtNXB-LLr9hpVTsbWP8frbFp_e21R-rZiIYc/edit#gid=0)
