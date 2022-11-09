@@ -29,7 +29,7 @@
 
 - [x] **Testcase&Checklist:**
 - Составление тест-кейсов(TestRail;GoogleDocs)
-  - Пример тест кейсов: [тест кейсы и баг-репорты](https://docs.google.com/spreadsheets/d/1pREPjtdDtNXB-LLr9hpVTsbWP8frbFp_e21R-rZiIYc/edit#gid=0)
+  - Пример тест-кейсов: [тест кейсы и баг-репорты](https://docs.google.com/spreadsheets/d/1pREPjtdDtNXB-LLr9hpVTsbWP8frbFp_e21R-rZiIYc/edit#gid=0)
 - Составление чек-листов
   - Пример чек-листа: [чек-лист формы регистрации](https://docs.google.com/spreadsheets/d/1mYV1ti2Fw7lQYTqO0oiKyAfg9qxLwm0aevDk0C9kxSo/edit#gid=0)
 - Локализация и оформление багов
