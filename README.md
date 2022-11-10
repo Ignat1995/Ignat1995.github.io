@@ -56,7 +56,8 @@
   - Мой [GitHub](https://github.com/Ignat1995)
 - [x] **SQL:**
 - Теоретические и практические навыки работы с SELECT, FROM, WHERE, JOIN и т.д.
-  - Примеры моих запросов [SQL](https://docs.google.com/spreadsheets/d/1ChpphQoKn7e6SGdO7j6_WwY_SONM7A4rSzohOop9ZwA/edit#gid=0)  к БД 
+- Проходил тесты на [https://sql-ex.ru/](https://sql-ex.ru/)
+  - Примеры моих запросов [SQL](https://docs.google.com/spreadsheets/d/1ChpphQoKn7e6SGdO7j6_WwY_SONM7A4rSzohOop9ZwA/edit#gid=0) 
 - [x] **Postman:**
 - Отправка запросов (GET;POST)
 - Понимание содержания запроса/ответа
