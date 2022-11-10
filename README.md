@@ -55,7 +55,7 @@
 - Работа с локальными и внешними репозиториями, создание репозиториев и веток, добавление/удаление файлов, синхронизация содержимого (комичу и пушу на ежедневной основе :))
   - Мой [GitHub](https://github.com/Ignat1995)
 - [x] **SQL:**
-- dvdv
+- Теоретические и практические навыки работы с SELECT, FROM, WHERE, JOIN и т.д.
   - Примеры моих запросов [SQL](https://docs.google.com/spreadsheets/d/1ChpphQoKn7e6SGdO7j6_WwY_SONM7A4rSzohOop9ZwA/edit#gid=0)  к БД 
 - [x] **Postman:**
 - Отправка запросов (GET;POST)
