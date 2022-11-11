@@ -46,7 +46,7 @@
   - Примеры работ [Terminal](https://github.com/Ignat1995/Terminal)
 - [x] **DevTools:**
 - Работа с: Elements, Console, Network, Perfomance, Toggle device toolbar, Throttling
-  - Пример работы [DevTools](https://disk.yandex.ru/i/j0wKj1PjWvB6iA)
+  - Пример работы [DevTools](https://drive.google.com/file/d/1SmIpi_lejTiITKR8fO5pbEqE3LtzAYbY/view?usp=sharing)
  
 - [x] **Miro:**
 - Декопозиция сайта (составление mindmap) [пример работы](https://drive.google.com/file/d/117H3i5yWS2pNNsyYBocC0O7b2I8ZUCZn/view?usp=sharing)
