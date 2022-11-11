@@ -7,6 +7,7 @@
 - *Telegram:* @minor_mistake
 - *WhatsApp, Viber:* 89991582562
 - *GitHub:* [https://github.com/Ignat1995](https://github.com/Ignat1995) 
+- *LinkedIn:* [https://linkedin.com/IgnatG](https://www.linkedin.com/in/ignat-gulyagin-414090226/)
 
 ---
 
