@@ -8,6 +8,7 @@
 - *WhatsApp, Viber:* 89991582562
 - *GitHub:* [https://github.com/Ignat1995](https://github.com/Ignat1995) 
 - *LinkedIn:* [https://linkedin.com/IgnatG](https://www.linkedin.com/in/ignat-gulyagin-414090226/)
+- *HeadHunter:* [https://hh.ru/IgnatG](https://spb.hh.ru/resume/be82f7feff096b61660039ed1f77746f70616a)
 
 ---
 
@@ -107,7 +108,7 @@
 - Обнаружение и документирование  дефектов
 - Мобильное тестирование (iOS)
 
-*2022* **Практика** VK Testers
+*2022* **Практика** VK Testers [vk.com](https://vk.com/)
 - Web тестирование
 - Мобильное тестирование (iOS)
 - Выявление дефектов
