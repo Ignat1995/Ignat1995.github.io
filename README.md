@@ -35,11 +35,12 @@
 - [x] **Testcase&Checklist:**
 - Составление тест-кейсов(TestRail;GoogleDocs)
   - Пример тест-кейсов: [тест кейсы и баг-репорты](https://docs.google.com/spreadsheets/d/1pREPjtdDtNXB-LLr9hpVTsbWP8frbFp_e21R-rZiIYc/edit#gid=0)
-  - Пример тест-кейсов по игре: [тест кейсы и баг-репорты 2](https://docs.google.com/spreadsheets/d/1ZOovpRg4aJGmDjwb-ftK6K3lMAHWsnDL3zdCJcev4M8/edit#gid=0)
+  - Пример тест-кейсов по игре: [тест кейсы и баг-репорты игры](https://docs.google.com/spreadsheets/d/1ZOovpRg4aJGmDjwb-ftK6K3lMAHWsnDL3zdCJcev4M8/edit#gid=0)
 - Составление чек-листов
   - Пример чек-листа: [чек-лист формы регистрации](https://docs.google.com/spreadsheets/d/1mYV1ti2Fw7lQYTqO0oiKyAfg9qxLwm0aevDk0C9kxSo/edit#gid=0)
 - Локализация и оформление багов
   - Пример баг-репортов: [баг-репорты формы регистрации](https://docs.google.com/spreadsheets/d/1mYV1ti2Fw7lQYTqO0oiKyAfg9qxLwm0aevDk0C9kxSo/edit#gid=753364274)
+  - Пример баг-репортов (2): [баг-репорты сайта](https://docs.google.com/spreadsheets/d/1gwvGNLBZVrIEHtYX-UetigUPS3yTfBANpb38g8g-WXA/edit#gid=0)
 - Анализ тестовой документации
   - [Тестовая документация](https://docs.google.com/document/d/1jGF0tq0qTNDjJHcJM9VDKCMQIVS7e66vuE1ftSDAY3c/edit)
 - [x] **Terminal (cmd):**
