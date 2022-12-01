@@ -104,6 +104,14 @@
 - Производство замеров FPS, Потребления энергии, загрузки GPU и CPU
 - Периодическое проведение повторного тестирования и выявление средних значений
   - Результат работы [algorithm2](https://docs.google.com/spreadsheets/d/1L2Ej2A62f-ro8DHGO7wFsUCxF_Wjk2IWhKy9lwNBKUA/edit#gid=0)
+  
+*2022* **Практика** тестирование мобильной игры Supermarket Mania Journey [G5 Games](https://www.g5e.com/ru/games/supermarket-mania-journey)
+- Мобильное тестирование (iOS)
+- Тестирование разных уровней и разделов игры
+- Составление тест - кейсов
+- Поиск и выявление деффектов
+- Составление баг - репортов
+- Результат работы [Supermarket Mania](https://docs.google.com/spreadsheets/d/1ZOovpRg4aJGmDjwb-ftK6K3lMAHWsnDL3zdCJcev4M8/edit#gid=0)
 
 *2022* **Практика** тестирование на cайте - [testbirds.com](https://nest.testbirds.com/dashboard)
 - Регулярное выполнение тестовых заданий
