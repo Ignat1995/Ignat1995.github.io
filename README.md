@@ -41,6 +41,7 @@
 - Локализация и оформление багов
   - Пример баг-репортов: [баг-репорты формы регистрации](https://docs.google.com/spreadsheets/d/1mYV1ti2Fw7lQYTqO0oiKyAfg9qxLwm0aevDk0C9kxSo/edit#gid=753364274)
   - Пример баг-репортов: [баг-репорты сайта](https://docs.google.com/spreadsheets/d/1gwvGNLBZVrIEHtYX-UetigUPS3yTfBANpb38g8g-WXA/edit#gid=0)
+  - Пример баг-репортов: [баг-репорты сайта 2](https://docs.google.com/spreadsheets/d/1MKMkW9wFRvauZINk-K2sujhndt4JNEcJaJJGCJ06jqM/edit#gid=0)
 - Анализ тестовой документации
   - [Тестовая документация](https://docs.google.com/document/d/1jGF0tq0qTNDjJHcJM9VDKCMQIVS7e66vuE1ftSDAY3c/edit)
 - [x] **Terminal (cmd):**
